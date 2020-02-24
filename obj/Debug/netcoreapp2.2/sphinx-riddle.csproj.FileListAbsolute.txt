@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/sphinx-riddle/bin/Debug/netcoreapp2.2/sphinx-riddle.deps.json
+/Users/Guest/Desktop/sphinx-riddle/bin/Debug/netcoreapp2.2/sphinx-riddle.runtimeconfig.json
+/Users/Guest/Desktop/sphinx-riddle/bin/Debug/netcoreapp2.2/sphinx-riddle.runtimeconfig.dev.json
+/Users/Guest/Desktop/sphinx-riddle/bin/Debug/netcoreapp2.2/sphinx-riddle.dll
+/Users/Guest/Desktop/sphinx-riddle/bin/Debug/netcoreapp2.2/sphinx-riddle.pdb
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.csprojAssemblyReference.cache
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.AssemblyInfo.cs
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.dll
+/Users/Guest/Desktop/sphinx-riddle/obj/Debug/netcoreapp2.2/sphinx-riddle.pdb
